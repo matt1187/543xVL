@@ -43,6 +43,7 @@ History: i feel like doing make a underdog-videocard.
 
 - [![csv-file ](https://github.com/matt1187/543xVL/blob/main/gerber/543xVL-001.csv)]
 - [Config strap (R1-5, 100,101 ) Place all resistor except R5
+- [![Gerber file](https://github.com/matt1187/543xVL/blob/main/gerber/543xVL-001.zip)]
 
 # driver & ROM 
 - [![Cirrus Logic ROM generic, from PCI donor card](https://github.com/matt1187/543xVL/blob/main/rom/rom.zip)]
