@@ -7,7 +7,8 @@
 
 History: i feel like doing make a underdog-videocard.
 
-![pictures](https://github.com/matt1187/543xVL/blob/main/pictures/543xVL-1.jpg)
+![pictures](https://github.com/matt1187/543xVL/blob/main/pictures/543xVL_1.jpg)
+![pictures](https://github.com/matt1187/543xVL/blob/main/pictures/543xVL_2.jpg)
 
 # PCB Revision History  (attention, two PCB type )
 - 543xVL-000 initial draft
