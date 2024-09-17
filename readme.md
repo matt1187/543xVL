@@ -10,7 +10,7 @@ History: i feel like doing make a underdog-videocard.
 ![pictures](https://github.com/matt1187/543xVL/blob/main/photo/543xVL_1.jpg)
 ![pictures](https://github.com/matt1187/543xVL/blob/main/photo/543xVL_2.jpg)
 
-# PCB Revision History  (attention, two PCB type )
+# PCB Revision History  
 - 543xVL-000 initial draft
 - 543xVL-001 few minor bug fixing (wrong config strap and modified RAS0/1 selector)
 
