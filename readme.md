@@ -35,7 +35,7 @@ History: i feel like doing make a underdog-videocard.
 # notes
 - GD5436 hasn't VLB-inteface
 - all component with  followed ID is config strap (R1,R2,R3,R4,R5 ,R100,R101 )
-- [Config strap (R1-5, 100,101 ) Place all resistor except R5
+- Config strap (R1-5, 100,101 ) Place all resistor except R5
 - SPI-EEPROM is optional.
 -  5430/5440 ->  RAS0 resistor must be placed,  otherwise  RAS1  resistor must be placed (GD5434)
  
