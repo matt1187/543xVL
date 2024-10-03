@@ -9,6 +9,8 @@ History: i feel like doing make a underdog-videocard.
 
 ![pictures](https://github.com/matt1187/543xVL/blob/main/photo/543xVL_1.jpg)
 ![pictures](https://github.com/matt1187/543xVL/blob/main/photo/543xVL_2.jpg)
+![grafik](https://github.com/user-attachments/assets/5fa25b01-7b75-47cd-9980-3ad1fd9e3056)
+
 
 # PCB Revision History  
 - 543xVL-000 initial draft
@@ -30,6 +32,7 @@ History: i feel like doing make a underdog-videocard.
 # Issues 
 - GD5430 is not fast, much slower than S3 Trio family.   
 - GD5434 isn't easy & cheap find
+- some Chip has noisy VGA output (stripe on TFT display)
 
 
 # notes
