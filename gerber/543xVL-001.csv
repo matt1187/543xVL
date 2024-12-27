@@ -59,7 +59,7 @@
 "","","D2","BAT42","Device:D_Schottky","MiniMELF","511-TMMBAT42FILM "
 "","","F1","Polyfuse ~500mA","Device:Polyfuse","0805","576-0805L020/16YR "
 "","","FB1","10µH","Device:L","0805","810-MLZ2012N100LTD25"
-"","","J1","DB15_Female_HighDensity","DSUB-15-HD_Female","L77HDE15SD1CH4R or L77HDE15SD1CH4RHNVGA"
+"","","J1","DB15_Female_HighDensity","DSUB-15-HD_Female","L77HDE15SD1CH4R or L77HDE15SD1CH4FVGA "
 "","","J2","Feature connector","2x13 pin","PinHeader_2x13_P2.54mm","~"
 "","","JP1","IRQ Enable","Jumper","PinHeader_1x02_2.54mm","~"
 "","","JP2",">33Mhz","Jumper","PinHeader_1x02_P2.54mm","~"
