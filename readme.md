@@ -21,7 +21,7 @@ History: i feel like doing make a underdog-videocard.
 - one of very modern video card for VESA local bus platform
 - 2 MB DRAM
 - 135 MHz integrated RAMDAC (5434)
-- rock solid  40 MHz bus-clock with zero wait-state
+- rock solid  50 MHz bus-clock with zero wait-state (confirmed since 05.12.2025 on Asus VL/I-486SVGO4x )
 - Win 3.1, Win9x, Win NT 3.51 & 4 driver available
 - cheap GD5430 PCI card as compoment donor.
 - cheap 2 layer platine layout 
